@@ -26,7 +26,12 @@ public class CalculatorTest {
 	public void testAdd() {
 		assertTrue(cl.doAdd(1, 2) == 3);
 	}	
-
+	
+	@Test
+	public void testAdd1() {
+		assertTrue(cl.doAdd(1, 2) == 4);
+	}
+	
 	@Test
 	public void testSub() {
 		assertTrue(cl.doSub(1, 1) == 0);
