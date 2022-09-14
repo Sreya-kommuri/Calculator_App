@@ -2,5 +2,5 @@ projectKey=clc2
 serverUrl=http://localhost:9000
 serverVersion=9.5.0.56709
 dashboardUrl=http://localhost:9000/dashboard?id=clc2
-ceTaskId=AYM2mAJlOfOe9WrfaRY_
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYM2mAJlOfOe9WrfaRY_
+ceTaskId=AYM64V93QSrvwnH1-BU0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYM64V93QSrvwnH1-BU0
