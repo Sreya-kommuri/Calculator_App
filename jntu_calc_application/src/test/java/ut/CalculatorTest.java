@@ -28,11 +28,6 @@ public class CalculatorTest {
 	}	
 	
 	@Test
-	public void testAdd1() {
-		assertTrue(cl.doAdd(1, 2) == 4);
-	}
-	
-	@Test
 	public void testSub() {
 		assertTrue(cl.doSub(1, 1) == 0);
 	}
